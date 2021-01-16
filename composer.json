@@ -19,12 +19,12 @@
   },
   "autoload": {
     "psr-4": {
-      "seqhilla\\content\\": "src"
+      "seqhilla\\akademisyenders\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "seqhilla\\content\\tests\\": "tests"
+      "seqhilla\\akademisyenders\\tests\\": "tests"
     }
   },
   "repositories": [
