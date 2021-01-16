@@ -57,6 +57,14 @@ Görüldüğü gibi sonuç filtlenirken son satırdaki akademisyenin sütununda 
 
 Vagrant advanced Projesine Modülü Yükleme:
 
+Öncelikle:
+
+php: >=7.0
+
+yiisoft/yii2: ~2.0.13
+
+Gereklidir devam etmeden önce kurulu olduklarından emin olun.
+
 Öncelikle Vagrant'ın kurulu olduğu yerde iken:
 
 ```
