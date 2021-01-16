@@ -1,0 +1,36 @@
+{
+  "name": "seqhilla/yii2-akademisyenders",
+  "description": "Yii2 Akademisyenders Modulu",
+  "type": "yii2-extension",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "seqhilla",
+      "email": "gurkancingoz@yandex.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "~2.0.13"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "8.*.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "seqhilla\\content\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "seqhilla\\content\\tests\\": "tests"
+    }
+  },
+  "repositories": [
+    {
+      "type": "composer",
+      "url": "https://asset-packagist.org"
+    }
+  ]
+}
