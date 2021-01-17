@@ -106,10 +106,11 @@ yazarak paket projeye çekilir.
 Devamında migration için:
 
 ```
-php yii migrate/up --migrationPath=@vendor/seqhilla/migrations
+php yii migrate/up --migrationPath=@vendor/seqhilla/yii2-akademisyenders/src/migrations
 ```
 
-![image](https://user-images.githubusercontent.com/57414546/104823105-a85d8680-5858-11eb-89ba-1fbea45f7267.png)
+![image](https://user-images.githubusercontent.com/57414546/104837489-e9d84b00-58c5-11eb-9eec-e5060586cc8c.png)
+
 yazmanız gerekmekte.
 
 Daha sonra yapmanız gereken: 
