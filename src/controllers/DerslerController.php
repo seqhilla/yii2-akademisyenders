@@ -3,8 +3,8 @@
 namespace seqhilla\akademisyenders\controllers;
 
 use Yii;
-use common\models\Dersler;
-use common\models\DerslerSearch;
+use seqhilla\akademisyenders\models\Dersler;
+use seqhilla\akademisyenders\models\DerslerSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;

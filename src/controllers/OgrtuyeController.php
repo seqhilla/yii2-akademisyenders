@@ -3,8 +3,8 @@
 namespace seqhilla\akademisyenders\controllers;
 
 use Yii;
-use common\models\Ogrtuye;
-use common\models\OgrtuyeSearch;
+use seqhilla\akademisyenders\Ogrtuye;
+use seqhilla\akademisyenders\OgrtuyeSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
