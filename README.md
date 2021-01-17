@@ -115,16 +115,7 @@ yazmanız gerekmekte.
 
 Daha sonra yapmanız gereken: 
 
-Kullandığınız kod düzenleme uygulamasından(Fotoğraftaki PHP Storm) veya klasörlerden:
-advanced/vendor/seqhilla/yii2-akademisyenders/src/models içerisindeki 4 dosyayı
-
-![image](https://user-images.githubusercontent.com/57414546/104837662-1fc9ff00-58c7-11eb-9032-8457f63d0deb.png)
-
-advanced/common/models içerisine yapıştırın
-
-![image](https://user-images.githubusercontent.com/57414546/104837736-8f3fee80-58c7-11eb-84b2-5c1f5c279feb.png)
-
-daha sonra
+Kullandığınız kod düzenleme uygulamasından(Fotoğraftaki PHP Storm) veya klasörlerden dosyayı açarak:
 
 advanced/backend/config/main.php içerisinde bulunan 'modules' => [], kısmına
 
