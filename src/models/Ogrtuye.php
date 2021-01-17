@@ -1,6 +1,6 @@
 <?php
 
-namespace seqhilla\akademisyenders\models;
+namespace common\models;
 
 use Yii;
 
